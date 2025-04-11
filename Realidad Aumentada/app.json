@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MonitoreoAmbiental",
+    "slug": "MonitoreoAmbiental",
+    "version": "1.0.0",
+    "package": "com.tuempresa.monitoreoambientalAR",
+    "versionCode": 1,
+      "permissions": [
+        "CAMERA"
+      ]
+  }
+}
